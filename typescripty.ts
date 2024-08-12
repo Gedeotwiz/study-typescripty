@@ -28,4 +28,4 @@ const userInterface:user={
       console.log(`The names of user is ${this.firstName} ${this.lastName} and age is ${this.age} and his mariage ${this.mariage}`)
     },
 }
-User.Who()
+userInterface.Who()
